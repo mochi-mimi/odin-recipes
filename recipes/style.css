@@ -1,0 +1,25 @@
+h1 {
+    color:white;
+    background-color: pink;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+}
